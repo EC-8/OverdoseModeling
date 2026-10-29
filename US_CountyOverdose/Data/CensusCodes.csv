@@ -1,0 +1,20 @@
+﻿Name,CensusID,Description
+MedHHInc,B19013_001,Median Household Income in Past 12 Months
+AggsSSInc,B19065_001,Aggrigate Supplimental Social Security income
+AggEarn,B20003_001,Aggregate Earnings in Past 12 Months 
+AggFamInc,B19127_001,Aggregate Family Income in Past 12 Months 
+AggHHInc,B19025_001,Aggregate Household Income in Past 12 Months
+AggDiv,B19064_001,Aggregate Interest Dividends in Past 12 Months
+AggNFamInc,B19214_001,Aggregate Non-Family Income in Past 12 Months
+AggRooms,B25019_001,Aggregate Number of Rooms
+AggVehicles,B25046_001,Aggregate Number of Vehicles Available
+AggOInc,B19070_001,Aggregate Other Sources of Income in Past 12 Months
+AggPAInc,B19067_001,Aggregate Public Assistance Income in Past 12 Months 
+AggRInc,B19069_001,Aggregate Retirement Income in Past 12 Months    
+AggSEInc,B19063_001,Aggregate Self-Employment in Income Past 12 Months 
+AggSSInc,B19065_001,Aggregate Social Security Income in Past 12 Months
+AggWInc,B19062_001,Aggregate Wage or Salary Income in Past 12 Months 
+AvgHS,B25010_001,Average Household Size 
+MedAge,B01002_001,Median Age 
+MedEarn,B20002_001,Median Earnings in Past 12 Months 
+MedNFInc,B19202_001,Median Non-Family Income in Past 12 Months
